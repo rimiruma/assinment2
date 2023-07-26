@@ -23,3 +23,16 @@
 .section_three{
     display: flex;
 }
+
+.section_four_image{
+    display: flex;
+    margin: 0 5%;
+}
+
+.sectionforimage{
+    width: 200px;
+    height: 300px;
+}
+.sefortext{
+    width: 70%;
+}
